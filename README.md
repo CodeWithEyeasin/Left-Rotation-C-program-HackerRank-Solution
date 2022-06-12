@@ -1,0 +1,1 @@
+# Left-Rotation-C-program-HackerRank-Solution
